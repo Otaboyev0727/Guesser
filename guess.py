@@ -9,5 +9,5 @@ while True:
         print("Topdingiz")
         break   
     if guesses >= 3:
-        print("Yutqadizngiz")
+        print("Yutqadingiz!!!")
         break
