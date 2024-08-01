@@ -1,4 +1,5 @@
 import random
+# Find number
 
 n = random.randint(1, 10)
 guess = int(input("1 dan 10 gacha son kiriting:"))
