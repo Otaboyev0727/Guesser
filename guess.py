@@ -1,4 +1,5 @@
 import random
+
 # Find number
 
 n = random.randint(1, 10)
