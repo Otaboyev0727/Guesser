@@ -8,7 +8,7 @@ python3 guess.py
 
 python3 findnum.py
 
-
+_guesser (.txt, .log)
 
 '''
 
